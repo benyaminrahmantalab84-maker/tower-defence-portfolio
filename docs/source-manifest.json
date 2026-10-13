@@ -1,0 +1,28 @@
+{
+  "snapshot_date": "2026-10-13",
+  "source": "Local development workspace",
+  "copy_policy": "Unmodified selected C# source files",
+  "validation": "Source inspection and copy integrity only. Compilation and runtime tests NOT RUN.",
+  "files": [
+    {
+      "file": "samples/MatchFlowState.cs",
+      "original_relative_path": "Assets/Game/Towers/Runtime/MatchFlowState.cs",
+      "sha256": "d443cf006748223f173e429f73055eb76361214798e468e3c71a0d43329f5322"
+    },
+    {
+      "file": "samples/TowerProgressionIdentity.cs",
+      "original_relative_path": "Assets/Game/Towers/Runtime/TowerProgressionIdentity.cs",
+      "sha256": "5f1f283c53875f2f59a182cdf8f4941c0ea98b472f448d90bbb918cef767696d"
+    },
+    {
+      "file": "samples/TowerProgressionService.cs",
+      "original_relative_path": "Assets/Game/Towers/Runtime/TowerProgressionService.cs",
+      "sha256": "6b89c8429270a68be504a69500e4e9b16ab9f4f322c61b5ecdf4360395cdbede"
+    },
+    {
+      "file": "samples/EnemyNavMeshMovement.cs",
+      "original_relative_path": "Assets/Game/Towers/Enemies/EnemyNavMeshMovement.cs",
+      "sha256": "3f13bc491672b119043a82b0cdc35f18cde5904c9507cf105712f3e3e36d791e"
+    }
+  ]
+}
