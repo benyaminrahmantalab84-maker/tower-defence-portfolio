@@ -4,6 +4,10 @@
 
 A tower defence project combining modular C# gameplay systems with original Blender game assets. This showcase presents selected engineering work and publicly available artwork from an **in-development prototype**.
 
+![Tower upgrade visual variants modeled in Blender](media/tower-upgrade-variants.jpg)
+
+*Original Blender render of tower upgrade variants — [view the artwork post](https://www.linkedin.com/feed/update/urn:li:activity:7503443533014519808/). This is an asset render, not a gameplay screenshot.*
+
 **Unity 6000.2.2f1 · C# · Blender · URP · AI Navigation**
 
 [Contact me on LinkedIn](https://www.linkedin.com/in/benyamin-rahmantalab-650675394/)
