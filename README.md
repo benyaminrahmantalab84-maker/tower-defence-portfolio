@@ -1,25 +1,27 @@
-# Tower Defence — Unity & Blender Portfolio
+# Tower Defence — Unity Gameplay and Original 3D Art
 
 **Benyamin (Billy) Rahmantalab · Unity Game Developer & 3D Game Artist**
 
-A tower defence project combining modular C# gameplay systems with original Blender game assets. This showcase presents selected engineering work and publicly available artwork from an **in-development prototype**.
+I am developing this tower defence game in Unity and creating its 3D assets in Blender. This public showcase brings together selected C# gameplay code and the tower and Base artwork I made for an **in-development prototype**. The main game repository remains private.
 
-![Tower upgrade visual variants modeled in Blender](media/tower-upgrade-variants.jpg)
+![Two machine gun tower upgrade variants modeled in Blender](media/tower-upgrade-variants.jpg)
 
-*Original Blender render of tower upgrade variants — [view the artwork post](https://www.linkedin.com/feed/update/urn:li:activity:7503443533014519808/). This is an asset render, not a gameplay screenshot.*
+*My Blender render of two tower upgrade variants. This shows game assets, not a gameplay screenshot. [View the tower artwork post](https://www.linkedin.com/feed/update/urn:li:activity:7503443533014519808/).*
 
 **Unity 6000.2.2f1 · C# · Blender · URP · AI Navigation**
 
 [Contact me on LinkedIn](https://www.linkedin.com/in/benyamin-rahmantalab-650675394/)
 
-## Visual work
+## My Blender game art
+
+I designed, modeled, and animated the tower assets shown below. I also modeled and rigged the helicopter Base, created its landing animations, and built its procedural materials. The linked posts show the actual artwork.
 
 | Project work | What it demonstrates | View |
 | --- | --- | --- |
 | Tower designs and upgrade variants | Modeling, animation, and readable visual progression for machine gun, laser, and rocket towers | [Tower showcase](https://www.linkedin.com/feed/update/urn:li:activity:7503443533014519808/) |
 | Helicopter Base | Blender modeling, rigging, landing animations, and procedural materials | [Helicopter showcase](https://www.linkedin.com/feed/update/urn:li:activity:7513184259763785728/) |
 
-## Engineering highlights
+## My Unity and C# work
 
 - **Modular towers:** targeting, weapon cadence, attack execution, aiming, visuals, and progression have separate responsibilities.
 - **Owner-specific progression:** upgrades are keyed by owner and tower type, so an upgrade can synchronize that owner's existing towers and initialize later towers at the same level.
@@ -49,9 +51,9 @@ The planned match has **one player and three AI factions**, each with a Base. To
 
 The full delivery loop, XP and random level-up offers, AI decision behavior, complete map integration, and final presentation remain development work. No playable build is included in this showcase.
 
-## Project work
+## My role
 
-This project brings together gameplay design, Unity development and scene integration, and Blender modeling, rigging, and animation. The selected samples show the structure of the current code; the linked artwork shows the visual side of the project.
+I work on both sides of this game: original Blender assets and Unity gameplay code. The artwork links document the tower and Base models I created; the C# samples show part of the implementation. The complete game is still in development.
 
 **Available for freelance Unity development, playable prototypes, and Blender game art.**
 
