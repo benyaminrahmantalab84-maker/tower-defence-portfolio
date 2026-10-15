@@ -12,6 +12,26 @@ I am developing this tower defence game in Unity and creating its 3D assets in B
 
 [Contact me on LinkedIn](https://www.linkedin.com/in/benyamin-rahmantalab-650675394/)
 
+## Project visuals
+
+These images show work in progress: Blender models and renders, plus a Unity scene capture. They are not screenshots of a finished game.
+
+| Environment in Blender | Environment in Unity |
+| --- | --- |
+| ![Stepped grassy terrain model in Blender](media/terrain-blender.png) | ![Stepped grassy terrain with helicopters in Unity](media/terrain-unity.png) |
+
+| Helicopter rig in Blender | Flying enemy render |
+| --- | --- |
+| ![Helicopter model and rig controls in Blender](media/helicopter-rig-blender.png) | ![Flying monster model render](media/flying-monster.png) |
+
+| Ground enemy | Rocket tower variants |
+| --- | --- |
+| ![Ground monster model render](media/ground-monster.png) | ![Two rocket tower color variants](media/rocket-tower.png) |
+
+| Laser gun variants | Laser tower variants |
+| --- | --- |
+| ![Two laser gun tower color variants](media/laser-gun.png) | ![Two laser tower color variants](media/laser-tower.png) |
+
 ## My Blender game art
 
 I designed, modeled, and animated the tower assets shown below. I also modeled and rigged the helicopter Base, created its landing animations, and built its procedural materials. The linked posts show the actual artwork.
